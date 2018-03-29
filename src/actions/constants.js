@@ -1,0 +1,10 @@
+ const constants = {
+   GET_ALL_COUNT: "GET_ALL_COUNT",
+   TECH_REVIEW_LIST:"TECH_REVIEW_LIST",
+   ADD_ERROR:"ADD_ERROR",
+   CLEAR_ERRORS:"CLEAR_ERRORS",
+   FETCHING:"FETCHING",
+   CANCEL_FETCHING:"CANCEL_FETCHING",
+   
+};
+export default constants;
